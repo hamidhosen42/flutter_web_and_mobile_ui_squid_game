@@ -1,10 +1,10 @@
 # flutter_web_ui_squid_game
 
-<p>
-  ![img1](https://user-images.githubusercontent.com/68488154/154890629-9e98b433-4e3d-4318-91e2-112b739240c9.jpg)
+<img>
+ ![img1](https://user-images.githubusercontent.com/68488154/154890629-9e98b433-4e3d-4318-91e2-112b739240c9.jpg)
 ![img2](https://user-images.githubusercontent.com/68488154/154890638-b65f51ff-7b9f-448c-95ac-36b416aae5e4.jpg)
 <img width="960" alt="img3" src="https://user-images.githubusercontent.com/68488154/154890665-6bc4b857-b5de-41f8-aead-ecd2caa984d7.png">
-</p>
+</img>
 
 
 A new Flutter project.
